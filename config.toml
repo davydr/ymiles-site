@@ -1,0 +1,5 @@
+
+baseURL = "https://ymiles.com/"
+languageCode = "en-us"
+title = "YMiles"
+theme = "basic"
