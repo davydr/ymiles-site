@@ -1,5 +1,32 @@
-
 baseURL = "https://ymiles.com/"
 languageCode = "en-us"
 title = "YMiles"
-theme = "basic"
+theme = "ananke"
+publishDir = "public"
+
+
+[params]
+  site_logo = ""
+  description = "Reward your ride. Track, save, and earn with YMiles."
+  show_reading_time = true
+  mainSections = ["posts"]
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "plans"
+    name = "Plans"
+    url = "/plans/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
