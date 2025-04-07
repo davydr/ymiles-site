@@ -4,6 +4,10 @@ title = "YMiles"
 theme = "ananke"
 publishDir = "public"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
   site_logo = ""
