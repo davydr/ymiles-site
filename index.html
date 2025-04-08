@@ -57,7 +57,7 @@ What tax deductions can Uber drivers take? Learn what expenses to track and get 
   <meta itemprop="description" content="Understand Your Uber Tax Documents What is a 1099-K and why did I get it? The 1099-K shows your total Uber earnings. You&#39;ll need this to report income on your taxes. Click to learn more.
 How do I use my 1099-NEC from Uber? This form may show referral bonuses or other earnings outside rides. Click to learn how to file it right.
 What tax deductions can Uber drivers take? Learn what expenses to track and get your free checklist. Click to grab it!">
-  <meta itemprop="wordCount" content="171">
+  <meta itemprop="wordCount" content="165">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Tax Help for Part-Time Uber Drivers">
   <meta name="twitter:description" content="Understand Your Uber Tax Documents What is a 1099-K and why did I get it? The 1099-K shows your total Uber earnings. You&#39;ll need this to report income on your taxes. Click to learn more.
@@ -162,24 +162,20 @@ What tax deductions can Uber drivers take? Learn what expenses to track and get 
 <h2 id="need-personal-help">Need Personal Help?</h2>
 <p>Still confused about your forms?<br>
 <a href="/training/" style="font-weight:bold; font-size:1.1em;">Check out the free training videos</a> or contact me using the form at the bottom of the page.</p>
-<p>{{ partial &ldquo;email-signup.html&rdquo; }}
-<form action="https://script.google.com/macros/s/AKfycbwWOei-Em1YVvTlTmJzf_1-OHreXFvstHuNebVjzJ5RWjbBTd7Z4vXT4_Uj43833yK4IQ/exec" method="POST" class="email-form">
-  <label for="email">Email Address</label><br>
-  <input type="email" name="email" id="email" required><br><br>
-  <button type="submit">Get the Checklist</button>
+<form action="https://script.google.com/macros/s/AKfycbx8g7keBA7ndYp9JEo84-u4_DZ-Gc48Yw1aYzMqAMHmcX2_OP-EVeu_3m_b6qqZT9sQ/exec" method="POST">
+  <label for="name">Name</label><br>
+  <input type="text" name="name" required><br><br>
+
+  <label for="email">Email</label><br>
+  <input type="email" name="email" required><br><br>
+
+  <label for="message">Message</label><br>
+  <textarea name="message" rows="5" required></textarea><br><br>
+
+  <input type="submit" value="Send Message">
 </form>
 
-<script>
-  document.querySelectorAll('.email-form').forEach(form => {
-    form.addEventListener("submit", function () {
-      setTimeout(function () {
-        window.location.href = "/thanks/";
-      }, 500);
-    });
-  });
-</script>
 
-</p>
 
   </article>
 
