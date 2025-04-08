@@ -1,0 +1,16 @@
+<form action="https://script.google.com/macros/s/AKfycbwWOei-Em1YVvTlTmJzf_1-OHreXFvstHuNebVjzJ5RWjbBTd7Z4vXT4_Uj43833yK4IQ/exec" method="POST" class="email-form">
+  <label for="email">Email Address</label><br>
+  <input type="email" name="email" id="email" required><br><br>
+  <button type="submit">Get the Checklist</button>
+</form>
+
+<script>
+  document.querySelectorAll('.email-form').forEach(form => {
+    form.addEventListener("submit", function () {
+      setTimeout(function () {
+        window.location.href = "/thanks/";
+      }, 500);
+    });
+  });
+</script>
+

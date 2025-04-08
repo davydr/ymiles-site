@@ -16,21 +16,28 @@ publishDir = "public"
   mainSections = ["posts"]
 
 [menu]
+
   [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
+    name = "1099-K"
+    url = "/1099-k/"
     weight = 1
 
   [[menu.main]]
-    identifier = "plans"
-    name = "Plans"
-    url = "/plans/"
+    name = "1099-NEC"
+    url = "/1099-nec/"
     weight = 2
 
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    name = "Deductions"
+    url = "/deductions-checklist/"
     weight = 3
 
+  [[menu.main]]
+    name = "Schedule C"
+    url = "/schedule-c/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Training"
+    url = "/training/"
+    weight = 5
