@@ -2,11 +2,8 @@
 title: "Using the 1099-NEC"
 ---
 
-Great — let’s build a focused, professional 1000-word page for the **1099-NEC**, tailored for part-time Uber drivers.
 
----
-
-## 🧾 How to Use the 1099-NEC From Uber
+## How to Use the 1099-NEC From Uber
 
 When you're a part-time Uber driver, you may receive more than one tax form. While most people know about the 1099-K, Uber drivers may also receive a **1099-NEC**. This form reports income that didn't come directly from your passengers, and it often catches drivers off guard.
 

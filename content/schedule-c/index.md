@@ -35,7 +35,7 @@ Even though Schedule C looks like one form, it actually has **multiple sections 
 
 ##  Schedule C Structure for Uber Drivers
 
-### 🔹 **Page 1: The Summary Page (Lines 1–31)**
+### **Page 1: The Summary Page (Lines 1–31)**
 
 This is where you enter your **gross income**, subtract your **expenses**, and end up with your **net profit** on **Line 31**. That final number flows to your main tax return (Form 1040).
 
@@ -43,7 +43,7 @@ But most of the numbers on Page 1 come from calculations you do on **worksheets 
 
 ---
 
-## 🔍 Behind-the-Scenes Sections
+##  Behind-the-Scenes Sections
 
 ### 1. **Part II – Expenses (Lines 8–27a)**  
 This is where you list each business expense **by category**:
@@ -52,7 +52,7 @@ This is where you list each business expense **by category**:
 - Line 25: Utilities (portion of your phone bill)
 - Line 27a: Other expenses (like snacks, cleaning supplies)
 
-🛠️ You can **attach a separate sheet** if you need to list “Other Expenses” in detail.
+You can **attach a separate sheet** if you need to list “Other Expenses” in detail.
 
 ---
 
