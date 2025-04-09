@@ -1,5 +1,5 @@
 ---
-title: "Uber Driver Tax Training"
+title: "Uber Driver Tax Pricing"
 ---
 
 ## Get the Right Training — Free or Premium

@@ -39,6 +39,6 @@ publishDir = "public"
     weight = 4
 
   [[menu.main]]
-    name = "Training"
+    name = "Pricing"
     url = "/training/"
     weight = 5
