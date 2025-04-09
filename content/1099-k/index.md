@@ -2,10 +2,6 @@
 title: "Understanding Your 1099-K"
 ---
 
-Excellent points — and thanks for the updated IRS threshold and Uber-specific insights. Based on your notes, here’s a **revised 1000-word draft** for your `1099-k.md` page. It speaks directly to part-time Uber drivers and reflects your tools + training:
-
----
-
 ## What Is the 1099-K and Why Did I Get It?
 
 If you’re a part-time Uber driver, the tax paperwork can be overwhelming. One form you’ll almost always hear about is the **1099-K**, which Uber may send to report your earnings. This guide will walk you through what the 1099-K is, how to read it, and — most importantly — how to use it with other Uber documents to accurately calculate what you owe.
@@ -75,7 +71,7 @@ Here’s a simplified version of how it works:
 
 ---
 
-### ✂️ What Can You Deduct?
+### What Can You Deduct?
 
 Common Uber-related tax deductions include:
 - **Mileage** (your biggest one!)
@@ -90,7 +86,7 @@ If you're using my **mileage tracker** and the **Uber Deductions Checklist**, yo
 
 ---
 
-### ⚠️ Don’t Ignore the 1099-K — Even If You Didn’t Get One
+### Don’t Ignore the 1099-K — Even If You Didn’t Get One
 
 Let’s say you didn’t hit $10,000 or live in a state with a higher threshold. You still have to report income from Uber — even if you **don’t** receive a 1099-K.
 
@@ -138,7 +134,7 @@ Here’s what to do when you receive the form:
 
 ---
 
-### 📚 Want Extra Help?
+###  Want Extra Help?
 
 I offer:
 - **Free training videos** for Uber drivers
