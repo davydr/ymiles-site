@@ -43,7 +43,11 @@ Other items require more effort — you need a receipt to claim them:
 
 These are small but add up over time. Keep those receipts or use an app to scan them as you go.
 
+<form action="https://script.google.com/macros/s/AKfycbxSj3bQyEzqkYWQ-bSMcB64TD5qIPCQn06k8jkPHxsMb6TOLRnth8E-bc4bTxCVl7qrsg/exec" method="post">
+  <label for="email">Enter your email to get the checklist:</label><br>
+  <input type="email" name="email" required>
+  <button type="submit">Get Checklist</button>
+</form>
 
 
-Here's your [Free Checklist PDF](MAILCHIMP).
 
