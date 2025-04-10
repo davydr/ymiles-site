@@ -15,7 +15,7 @@ publishDir = "public"
   show_reading_time = true
   mainSections = ["posts"]
   custom_css = ["css/custom.css"]
-
+  favicon = "favicon.ico"
 [menu]
 
   [[menu.main]]
