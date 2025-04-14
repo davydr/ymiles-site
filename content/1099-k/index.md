@@ -12,9 +12,9 @@ Let’s break it down step by step.
 
 ### Why You Got a 1099-K From Uber
 
-Starting in 2024, the IRS lowered the federal threshold for receiving a 1099-K to **$10,000**. That means if you made at least $10,000 in rider payments through Uber, you’ll get this form. Some states (like Massachusetts or Virginia) require Uber to send it even at **$600** or less, regardless of transaction count.
+Starting in 2024, the IRS lowered the federal threshold for receiving a 1099-K to **$5,000**. This was $20,000 last year and will be reduced to $600 by 2026. That means if you made at least $5,000 in rider payments through Uber, you’ll get this form. Some states (like Massachusetts or Virginia) require Uber to send it even at **$600** or less, regardless of transaction count.
 
-This doesn’t mean you owe taxes on the full $10,000+. The IRS just wants to know what came in — **you’re allowed to subtract legitimate expenses.**
+This doesn’t mean you owe taxes on the full $5,000+. The IRS just wants to know what came in — **you’re allowed to subtract legitimate expenses.**
 
 ---
 
