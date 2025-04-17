@@ -1,7 +1,7 @@
 
 # Help Us Build YMiles, a Family-First LLC Strategy
 
-## Seeking an experienced CPA to support our tax strategy, family payroll, and long-term wealth goals
+Seeking an experienced CPA to support our tax strategy, family payroll, and long-term wealth goals
 
 ---
 
