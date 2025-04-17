@@ -3,5 +3,5 @@ module github.com/davydr/ymiles-site
 go 1.21
 
 require (
-    github.com/theNewDynamic/gohugo-theme-ananke latest
+    github.com/theNewDynamic/gohugo-theme-ananke v2.12.0
 )
