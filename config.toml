@@ -1,7 +1,7 @@
 baseURL = "https://ymiles.com/"
 languageCode = "en-us"
 title = "YMiles"
-theme = "github.com/theNewDynamic/gohugo-theme-ananke"
+theme = "ananke"
 publishDir = "public"
 googleAnalytics = "G-5DF862N65W"
 
