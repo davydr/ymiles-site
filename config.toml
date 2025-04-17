@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "YMiles"
 theme = "ananke"
 publishDir = "public"
+googleAnalytics = "G-5DF862N65W"
+
 
 [markup]
   [markup.goldmark]
