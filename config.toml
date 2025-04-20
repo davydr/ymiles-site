@@ -1,6 +1,6 @@
 baseURL = "https://ymiles.com/"
 languageCode = "en-us"
-title = "YMiles"
+title = "YMiles Rideshare"
 theme = "ananke"
 publishDir = "public"
 googleAnalytics = "G-5DF862N65W"
