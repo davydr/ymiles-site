@@ -32,7 +32,7 @@ title: "Tax Help for Part-Time Uber Drivers"
 
 ## Need Personal Help?
 
-Still confused about your forms?  
+Still confused about your IRS forms?  
 <a href="/training/" style="font-weight:bold; font-size:1.1em;">Check out the free training videos</a> or contact me using the form at the bottom of the page.
 
 {{< contact-form >}}
