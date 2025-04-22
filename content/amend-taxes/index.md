@@ -2,7 +2,7 @@
 title: "Is It Worth Tracking Dead Head Miles for Previous Years?"
 ---
 
-## Go Back and Save: Dead Head Miles from Past Years Still Count
+## Go Back and Save: Dead Head Miles from Past Years Still Count!
 
 If you’ve been driving for Uber part time and haven’t been tracking **dead head miles**, you could be leaving **hundreds of dollars** in unclaimed deductions on the table — even from **previous tax years**.
 
